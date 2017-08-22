@@ -5,8 +5,8 @@ Elegant is modern and exclusive Agency and Portfolio template suitable for agenc
 
 # Features
 
--Fully Responsive
--Parallax Backgrounds
+- Fully Responsive
+- Parallax Backgrounds
 - Fixed And Animated Navbar
 - Crossbrowser Compatible
 - Smooth Scroll
@@ -25,4 +25,4 @@ Elegant is modern and exclusive Agency and Portfolio template suitable for agenc
 - Number Counters
 - Easy to Customized
 - Scroll Animations
-and much more..
+- and much more..
