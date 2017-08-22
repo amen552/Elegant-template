@@ -12,6 +12,7 @@ Elegant is modern and exclusive Agency and Portfolio template suitable for agenc
 - Smooth Scroll
 - Mobile Browsers Compatible
 - Font Awesome 
+- Mobile-First Design
 - Hover Animation
 - W3C Valid HTML Code
 - SASS stylesheets
