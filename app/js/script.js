@@ -152,9 +152,12 @@ $('document').ready(function() {
 		offset: '90%',
 	});
 	
-	$('.preloader-container').css('display', 'none');
-	$('.home').css('opacity', '1');
-	$('.navbar-toggler').click(function() {
-		$('.bar-container').toggleClass('change')
+	$(window).on('load', function(){ 
+		$('.preloader-container').css('display', 'none');
+		$('.home').css('opacity', '1');
+		$('.navbar-toggler').click(function() {
+			$('.bar-container').toggleClass('change')
+		});
 	});
 });
+
